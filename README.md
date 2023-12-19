@@ -6,7 +6,7 @@ To write a C# program to check whether the student is eligibile for the engineer
 ### Step1: 
 Get the maths, chemistry and physics marks from the user using ReadLine().
 ### Step2: 
-Calculate the sum of all three subjects
+Calculate the sum of all three subjects and check whether the sum is greater than and equal to 180
 
 ### Step3:
 Calculate the sum of physics and maths and check the condition
