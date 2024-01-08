@@ -1,0 +1,15 @@
+C:\Users\Archana\csharpExperiments\Eligibility-for-Engineering-Admission\bin\Debug\net6.0\Eligibility-for-Engineering-Admission.exe
+C:\Users\Archana\csharpExperiments\Eligibility-for-Engineering-Admission\bin\Debug\net6.0\Eligibility-for-Engineering-Admission.deps.json
+C:\Users\Archana\csharpExperiments\Eligibility-for-Engineering-Admission\bin\Debug\net6.0\Eligibility-for-Engineering-Admission.runtimeconfig.json
+C:\Users\Archana\csharpExperiments\Eligibility-for-Engineering-Admission\bin\Debug\net6.0\Eligibility-for-Engineering-Admission.dll
+C:\Users\Archana\csharpExperiments\Eligibility-for-Engineering-Admission\bin\Debug\net6.0\Eligibility-for-Engineering-Admission.pdb
+C:\Users\Archana\csharpExperiments\Eligibility-for-Engineering-Admission\obj\Debug\net6.0\Eligibility-for-Engineering-Admission.csproj.AssemblyReference.cache
+C:\Users\Archana\csharpExperiments\Eligibility-for-Engineering-Admission\obj\Debug\net6.0\Eligibility-for-Engineering-Admission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Archana\csharpExperiments\Eligibility-for-Engineering-Admission\obj\Debug\net6.0\Eligibility-for-Engineering-Admission.AssemblyInfoInputs.cache
+C:\Users\Archana\csharpExperiments\Eligibility-for-Engineering-Admission\obj\Debug\net6.0\Eligibility-for-Engineering-Admission.AssemblyInfo.cs
+C:\Users\Archana\csharpExperiments\Eligibility-for-Engineering-Admission\obj\Debug\net6.0\Eligibility-for-Engineering-Admission.csproj.CoreCompileInputs.cache
+C:\Users\Archana\csharpExperiments\Eligibility-for-Engineering-Admission\obj\Debug\net6.0\Eligibility-for-Engineering-Admission.dll
+C:\Users\Archana\csharpExperiments\Eligibility-for-Engineering-Admission\obj\Debug\net6.0\refint\Eligibility-for-Engineering-Admission.dll
+C:\Users\Archana\csharpExperiments\Eligibility-for-Engineering-Admission\obj\Debug\net6.0\Eligibility-for-Engineering-Admission.pdb
+C:\Users\Archana\csharpExperiments\Eligibility-for-Engineering-Admission\obj\Debug\net6.0\Eligibility-for-Engineering-Admission.genruntimeconfig.cache
+C:\Users\Archana\csharpExperiments\Eligibility-for-Engineering-Admission\obj\Debug\net6.0\ref\Eligibility-for-Engineering-Admission.dll
