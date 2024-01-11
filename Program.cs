@@ -3,7 +3,7 @@
     {
         static void Main(string[] args)
         {
-            // Type the code here
+           Console.WriteLine("Hiiiiiii");
         }
     }
 
