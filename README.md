@@ -12,7 +12,7 @@ Calculate the sum of all three subjects and check whether the sum is greater tha
 Calculate the sum of physics and maths and check the condition
 
 ### Step4:
-
+Calculate the total marks then calculate maths and physics combined
 ### Step5:
 
 ### Step6:
