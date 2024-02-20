@@ -9,13 +9,16 @@ Get the maths, chemistry and physics marks from the user using ReadLine().
 Calculate the sum of all three subjects and check whether the sum is greater than and equal to 180
 
 ### Step3:
-Calculate the sum of physics and maths and check the condition
+Calculate the sum of physics and maths
 
 ### Step4:
 Calculate the total marks then calculate maths and physics combined
+
 ### Step5:
+Check the conditions and end the program
 
 ### Step6:
+Get the output
 
 ## Program:
 ```c#
@@ -49,6 +52,8 @@ Calculate the total marks then calculate maths and physics combined
     }
 ```
 ## Output:
+
+![Screenshot 2024-02-19 115833](https://github.com/vinushcv/Eligibility-for-Engineering-Admission/assets/113975318/f0eb4853-dc7b-4e64-8b4e-7239bfd658ab)
 
 
 ## Result:
